@@ -74,7 +74,7 @@ def all_supplies_in_holidays(holiday_hash)
      end
     end
   end
-  bbq_holilday
+  bbq_holiday
 end
 
 def all_holidays_with_bbq(holiday_hash)
