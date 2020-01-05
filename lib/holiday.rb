@@ -67,7 +67,13 @@ def all_supplies_in_holidays(holiday_hash)
   # etc.
 
   bbq_holiday = []
-  holiday_hash.each do |season, holiday|
+  holiday_hash.each do |season, holidays_and_supplies|
+    holidays_and_supplies.each do |holiday, supplies|
+    
+    
+    
+    end
+  end
   
 end
 
